@@ -23,7 +23,7 @@ This repository contains functional calculator implementations designed to handl
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/multi-language-calculator.git
+git clone https://github.com/0xharuwndr/multi-language-calculator.git
 cd multi-language-calculator
 ```
 
